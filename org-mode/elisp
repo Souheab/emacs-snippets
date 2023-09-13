@@ -3,6 +3,6 @@
 # key: elisp
 # uuid: elisp
 # --
-#+begin_src emacs-lisp :tangle yes
+#+begin_src emacs-lisp
 `%`$0
 #+end_src
